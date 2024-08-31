@@ -1,0 +1,7 @@
+#Data
+Data for the analysis is present in .csv files
+[This](https://github.com/Omsaigadge/Projects_misc/blob/main/SQL_miniproject/Copy%20of%20Data%20Analyst%20Intern%20SQL%20Assignment%20-%20Analysis.csv) contains the questions that I have answered. While, [this one](https://github.com/Omsaigadge/Projects_misc/blob/main/SQL_miniproject/Copy%20of%20Data%20Analyst%20Intern%20SQL%20Assignment%20-%20call_log.csv) and [this one](https://github.com/Omsaigadge/Projects_misc/blob/main/SQL_miniproject/Copy%20of%20Data%20Analyst%20Intern%20SQL%20Assignment%20-%20organization.csv) contain the data on which analysis was carried out.
+
+#SQL Code
+[This file](https://github.com/Omsaigadge/Projects_misc/blob/main/SQL_miniproject/table_creation_script.sql) contains the code for the entire analysis.
+All solutions were written in PostgreSQL.
